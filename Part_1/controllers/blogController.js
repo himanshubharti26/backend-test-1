@@ -18,6 +18,9 @@ const addBlog = async (req, res)=>{
         ]
     )(req, res, async (err)=>{
         if(err instanceof multer.MulterError){
+            if(err.message === "File too large" ){
+                return res.status(400).json({ error: 'exceeded image size of 1MB' });
+            }
             return res.status(400).json({ error: 'File upload error' });
         }else if(err){
             return res.status(500).json({ error: `Internal server error: ${err}` });

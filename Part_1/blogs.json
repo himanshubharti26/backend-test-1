@@ -17,5 +17,79 @@
     "description": "Description Test: 2!",
     "main_image": "images/main_image_2_test.jpg",
     "date_time": 1671017981
+  },
+  {
+    "reference": "00003",
+    "title": "My first blog Post",
+    "description": "First blog post out",
+    "main_image": "main_image_1696689518.jpg",
+    "additional_images": [
+      "additional_image_1696689518_0.jpg"
+    ],
+    "date_time": 1696724453
+  },
+  {
+    "reference": "00004",
+    "title": "Test Blog Post",
+    "description": "This is a test blog post description.",
+    "main_image": "main_image_1696805394.jpg",
+    "additional_images": [],
+    "date_time": 1696805394
+  },
+  {
+    "reference": "00005",
+    "title": "Test new Blog Post",
+    "description": "This is a test blog post new description.",
+    "main_image": "main_image_1696805395.jpg",
+    "additional_images": [],
+    "date_time": 1696805395
+  },
+  {
+    "reference": "00006",
+    "title": "Test Blog Post",
+    "description": "This is a test blog post description.",
+    "main_image": "main_image_1696805565.jpg",
+    "additional_images": [],
+    "date_time": 1696805565
+  },
+  {
+    "reference": "00007",
+    "title": "Test new Blog Post",
+    "description": "This is a test blog post new description.",
+    "main_image": "main_image_1696805567.jpg",
+    "additional_images": [],
+    "date_time": 1696805567
+  },
+  {
+    "reference": "00008",
+    "title": "Test Blog Post",
+    "description": "This is a test blog post description.",
+    "main_image": "main_image_1696805628.jpg",
+    "additional_images": [],
+    "date_time": 1696805628
+  },
+  {
+    "reference": "00009",
+    "title": "Test new Blog Post",
+    "description": "This is a test blog post new description.",
+    "main_image": "main_image_1696805629.jpg",
+    "additional_images": [],
+    "date_time": 1696805629
+  },
+  {
+    "reference": "00010",
+    "title": "Test Blog Post",
+    "description": "This is a test blog post description.",
+    "main_image": "main_image_1696805731.jpg",
+    "additional_images": [],
+    "date_time": 1696805731
+  },
+  {
+    "reference": "00011",
+    "title": "Test new Blog Post",
+    "description": "This is a test blog post new description.",
+    "main_image": "main_image_1696805732.jpg",
+    "additional_images": [],
+    "date_time": 1696805732
   }
 ]
